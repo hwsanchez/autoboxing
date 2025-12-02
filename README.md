@@ -1,3 +1,3 @@
 # Autoboxing and Unboxing
 
-Exploring autoboxing and unboxing in \*Java.
+Exploring autoboxing and unboxing in _Java_.
